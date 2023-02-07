@@ -1,0 +1,9 @@
+remote_theme: daviddarnes/alembic@main
+plugins:
+- jekyll-remote-theme
+
+title: Wajid Hussain
+description: Cats and Dogs identifier
+
+author:
+  name: Wajid Hussain
